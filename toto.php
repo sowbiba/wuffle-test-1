@@ -1,3 +1,3 @@
 <?php
 
-echo "toto is in the kitchen 7";
+echo "toto is in the kitchen 8";
